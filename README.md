@@ -1,3 +1,1 @@
-# One
-First
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&weight=666&size=33&letterSpacing=23%25&duration=10000&pause=1000&color=2F0AF7&center=true&vCenter=true&width=435&lines=Omega+Alphatron)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&weight=666&size=33&letterSpacing=23%25&duration=10000&pause=1000&color=2F0AF7&center=true&vCenter=true&width=435&lines=Omega+Alphatron)](https://git.io/typing-svg)
